@@ -19,16 +19,4 @@ Edusity is a fully responsive **university website** designed to showcase academ
 - **Version Control:** Git & GitHub  
 - **Other:** Responsive grid system, media queries, modular CSS  
 
----
 
-## 📂 Project Structure  
-```bash
-Edusity/
-│── index.html          # Homepage  
-│── about.html          # About page  
-│── programs.html       # Programs listing page  
-│── contact.html        # Contact form page  
-│── assets/             # Images, icons, fonts  
-│── css/                # Stylesheets  
-│── js/                 # JavaScript files  
-│── README.md           # Project documentation  
